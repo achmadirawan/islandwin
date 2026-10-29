@@ -1,0 +1,13 @@
+*.exe
+*.exe~
+*.dll
+bin/
+*.tmp
+library.json
+todos.json
+archived_history.json
+config.json
+prayer.json
+PRD*.md
+DECISIONS.md
+Makefile
